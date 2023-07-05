@@ -1,0 +1,25 @@
+.cor{
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    margin: 10px auto;
+    position: relative;
+    
+}
+.cos{
+     width: 300px;
+     height: 300px;
+     background-color: red;
+     position:absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     margin: auto;
+     border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+}
