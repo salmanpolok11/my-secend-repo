@@ -36,3 +36,11 @@ h1{
 .box img{
     width: 100%;
 }
+table,th,td{
+    border: 5px solid red ;
+    border-collapse: collapse;
+    text-align:left;
+}
+table{
+    width: 70%;
+}
